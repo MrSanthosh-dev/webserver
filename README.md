@@ -61,5 +61,12 @@ httpd.serve_forever()
 
 ## OUTPUT:
 
+## CLIENT OUTPUT:
+https://github.com/MrSanthosh-dev/webserver/blob/main/Clientoutput.png
+
+## SERVER OUTPUT:
+
+
+
 ## RESULT:
 The program is executed succesfully
