@@ -63,10 +63,10 @@ httpd.serve_forever()
 
 ## CLIENT OUTPUT:
 
-![https://github.com/MrSanthosh-dev/webserver/blob/main/Clientoutput.png]
+!(https://github.com/MrSanthosh-dev/webserver/blob/main/Clientoutput.png)
 
 ## SERVER OUTPUT:
-![https://github.com/MrSanthosh-dev/webserver/blob/main/Serveroutput.png]
+!(https://github.com/MrSanthosh-dev/webserver/blob/main/Serveroutput.png)
 
 
 
