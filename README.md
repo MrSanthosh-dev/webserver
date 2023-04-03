@@ -65,6 +65,7 @@ httpd.serve_forever()
 https://github.com/MrSanthosh-dev/webserver/blob/main/Clientoutput.png
 
 ## SERVER OUTPUT:
+https://github.com/MrSanthosh-dev/webserver/blob/main/Serveroutput.png
 
 
 
