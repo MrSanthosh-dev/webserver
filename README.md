@@ -68,7 +68,7 @@ httpd.serve_forever()
 ![output](/img/clientoutput.png)
 
 ## SERVER OUTPUT:
-![output](/img/serveroutput.png)
+![output](/img/serverouput.png)
 
 
 
